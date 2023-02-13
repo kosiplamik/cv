@@ -1,0 +1,23 @@
+body{
+    background-color: #F8EDE3;
+    max-width: 750px;
+    margin: auto;
+    }
+h1{
+    color: #85586F;
+    font-family: 'Brush Script MT',cursive;
+    font-size: 250%;
+}
+h3{
+    color: #85586F;
+    font-family: 'Lucida Handwriting',cursive;
+}
+hr{
+    border-style: none;
+    border-top: 7px dotted #DFD3C3;
+    width: 7%;
+    
+}
+p{
+    text-align: justify;
+}
